@@ -1,4 +1,4 @@
-# Sample with concept explained on how to secure data when transfering from one party to another party and validate the sender
+# Sample with concept explained on how to secure data when transfering from one party to another party and validate the sender (portion of End-to-End Encryption)
 
 ##### The sample code provided is based on nodejs and uses the in-built libraries (without any use of third party libraries)
 
